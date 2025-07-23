@@ -1,4 +1,4 @@
-# 🎨 Art Gallery Viewer – React Internship Assignment
+# 🎨 ArtWorks – React Internship Assignment
 
 This is a React + TypeScript project built using Vite and PrimeReact as part of an internship assignment. The app fetches artwork data from the Art Institute of Chicago API and displays it in a PrimeReact `DataTable` with features like server-side pagination, checkbox selection, and custom row selection logic that persists across pages.
 
