@@ -115,6 +115,7 @@ const ArtTable = () => {
         onPage={onPageChange}
         selection={selectedRowsForPage}
         onSelectionChange={onSelectionChange}
+        selectionMode="checkbox"
         dataKey="id"
       >
         <Column
