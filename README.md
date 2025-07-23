@@ -40,6 +40,8 @@ Fields displayed:
 
 
 ---
+🔗 Live App: [https://your-project-name.netlify.app](https://your-project-name.netlify.app)
+
 
 ## 🚀 How to Run Locally
 
