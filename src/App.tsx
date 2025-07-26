@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 
 import './App.css'
 import ArtTable from './components/ArtTable'
